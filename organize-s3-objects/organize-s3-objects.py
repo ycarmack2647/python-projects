@@ -1,7 +1,6 @@
 import boto3
 from datetime import datetime
 
-
 today = datetime.today()
 todays_date = today.strftime("%Y-%m-%d")
 
